@@ -1,4 +1,5 @@
 **Handwritten Digits Prediction using Neural Networks**
+
 This project aims to predict handwritten digits using neural networks implemented with TensorFlow Keras. The model achieves an accuracy of 97% on the test dataset, demonstrating the effectiveness of neural networks in pattern recognition tasks.
 
 *Model Architecture*
